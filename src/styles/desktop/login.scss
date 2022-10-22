@@ -1,0 +1,148 @@
+.login-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background-color: #f6f6f6;
+}
+
+.login-content {
+	width: 370px;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0 5px 13px rgba(0, 0, 0, 0.15);
+	background-color: $color-light;
+	overflow: hidden;
+	z-index: 2;
+}
+
+.vfcc-logo-wrapper {
+	width: 100px;
+
+	.vfcc-logo {
+		width: 100%;
+	}
+}
+
+.login-header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 7px;
+	margin-top: 13px;
+	margin-bottom: 33px;
+
+	&.show-alert {
+		margin-bottom: 0px;
+	}
+
+	h2 {
+		color: $color-dark-4;
+		font-size: 30px;
+		font-weight: normal;
+		letter-spacing: 0.35px;
+	}
+
+	span {
+		font-size: 14px;
+		color: $primary-color-2;
+	}
+}
+
+.form-control {
+	margin-bottom: 15px;
+
+	label {
+		color: $color-dark-4;
+		cursor: pointer;
+		display: block;
+		font-size: 16px;
+		letter-spacing: 0.25px;
+		margin-bottom: 7px;
+	}
+
+	.login-input {
+		outline: none;
+		display: block;
+		width: 100%;
+		height: 45px;
+		font-size: 17px;
+		padding: 0 13px;
+		color: $color-dark-10;
+		border-radius: 6px;
+		border: 1px solid $color-grey-3;
+		background-color: transparent;
+		transition: border-color 150ms ease-in;
+
+		&::focus {
+			border-color: $color-grey-3;
+		}
+	}
+}
+
+.login-links {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 20px;
+
+	p {
+		color: $color-dark-4;
+		cursor: pointer;
+		font-size: 13px;
+
+		&.remember-me {
+			display: flex;
+			align-items: center;
+			gap: 5px;
+
+			label {
+				cursor: pointer;
+			}
+		}
+
+		&.forgot-password {
+			transition: color 150ms ease-in;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+.login-btn {
+	outline: none;
+	border: none;
+	display: block;
+	width: 100%;
+	cursor: pointer;
+	color: $color-light;
+	font-size: 18px;
+	letter-spacing: 0.25px;
+	padding: 12px 15px;
+	margin-top: 18px;
+	border-radius: 6px;
+	background-color: $primary-color-1;
+
+	&:hover {
+		box-shadow: 0 8px 13px rgba(0, 0, 0, 0.15);
+	}
+}
+
+.look-up-request {
+	margin-top: 14px;
+	text-align: center;
+	color: $color-grey-2;
+	font-size: 13px;
+
+	span {
+		font-weight: bold;
+		cursor: pointer;
+		transition: color 150ms ease-in;
+
+		&:hover {
+			color: $primary-color-2;
+		}
+	}
+}

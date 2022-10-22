@@ -1,0 +1,1381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vfcc",
+				"vfcc-logo"
+			],
+			[
+				"aler",
+				"alert-danger"
+			],
+			[
+				"al",
+				"alert-danger"
+			],
+			[
+				"as",
+				"asyncError"
+			],
+			[
+				"alert",
+				"alert-success"
+			],
+			[
+				"color-d",
+				"color-danger-bck"
+			],
+			[
+				"color-suc",
+				"color-success-bck"
+			],
+			[
+				"H",
+				"Hooks"
+			],
+			[
+				"B",
+				"BrowserRouter"
+			],
+			[
+				"se",
+				"setAuthUser"
+			],
+			[
+				"AuthC",
+				"AuthContextProvider"
+			],
+			[
+				"useA",
+				"useAuthUser"
+			],
+			[
+				"set",
+				"setIsLoading"
+			],
+			[
+				"use",
+				"useAxiosError"
+			],
+			[
+				"ise",
+				"useAxiosError"
+			],
+			[
+				"axi",
+				"axios.js"
+			],
+			[
+				"valida",
+				"validateUsername"
+			],
+			[
+				"va",
+				"validateUsername"
+			],
+			[
+				"btn",
+				"btnClass"
+			],
+			[
+				"A",
+				"AuthContextProvider"
+			],
+			[
+				"pri",
+				"primary-color-3"
+			],
+			[
+				"col",
+				"color-dark-4"
+			],
+			[
+				"co",
+				"color-dark-4"
+			],
+			[
+				"p",
+				"primary-color-2"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"s",
+				"styles/"
+			],
+			[
+				"backgroud-c",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"transla",
+				"translateX(10px)"
+			],
+			[
+				"ob",
+				"object-position"
+			],
+			[
+				"obje",
+				"object-position"
+			],
+			[
+				"flex",
+				"flex-basis"
+			],
+			[
+				"kr",
+				"krynn-1.png"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"lgoi",
+				"login-container"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"df",
+				"defineEmits"
+			],
+			[
+				"h",
+				"guardHomeRoute"
+			],
+			[
+				"cre",
+				"createWebHistory"
+			],
+			[
+				"api",
+				"api-error-handler.js"
+			],
+			[
+				"apiE",
+				"apiErrorHandler"
+			],
+			[
+				"t",
+				"tweet-routes.js"
+			],
+			[
+				"categor",
+				"categories"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"re",
+				"reusable/"
+			],
+			[
+				"Si",
+				"SimpleForm"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"Err",
+				"Error.vue"
+			],
+			[
+				"com",
+				"comfirmPassword"
+			],
+			[
+				"hand",
+				"handleSubmit"
+			],
+			[
+				"handle",
+				"handleSubmit"
+			],
+			[
+				"f",
+				"forgot"
+			],
+			[
+				"F",
+				"Forgot"
+			],
+			[
+				"a",
+				"axios"
+			],
+			[
+				"vue",
+				"vue_auth"
+			],
+			[
+				"get",
+				"getIsExpanded"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"trans",
+				"translateX(10px)"
+			],
+			[
+				"meu",
+				"menu-toggle"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"r",
+				"router.js"
+			],
+			[
+				"todo",
+				"todos_asc"
+			],
+			[
+				"inpt",
+				"input_category"
+			],
+			[
+				"input",
+				"input_content"
+			],
+			[
+				"input_c",
+				"input_category"
+			],
+			[
+				"transl",
+				"translateX()"
+			],
+			[
+				"transfro",
+				"transform"
+			],
+			[
+				"D",
+				"Dropdown"
+			],
+			[
+				"he",
+				"Helvetica Neue, Helvetica, Arial, sans-serif"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"me",
+				"menu-item"
+			],
+			[
+				"trn",
+				"transition"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"alg",
+				"align-items"
+			],
+			[
+				"d",
+				"dropdown/"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"cook",
+				"cookies.js"
+			],
+			[
+				"win",
+				"windowMs"
+			],
+			[
+				"x",
+				"xss-clean"
+			],
+			[
+				"S",
+				"StatusCodes"
+			],
+			[
+				"crated",
+				"createdBy"
+			],
+			[
+				"findB",
+				"findByIdAndUpdate"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"aut",
+				"authentication"
+			],
+			[
+				"compar",
+				"comparePassword"
+			],
+			[
+				"Un",
+				"UnauthenticatedError"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"JWT_",
+				"JWT_SECRET"
+			],
+			[
+				"JWT",
+				"JWT_LIFETIME"
+			],
+			[
+				"gen",
+				"genSalt"
+			],
+			[
+				"job",
+				"jobsRouter"
+			],
+			[
+				"Cu",
+				"CustomError"
+			],
+			[
+				"cus",
+				"custom-error.js"
+			],
+			[
+				"Bar",
+				"BadRequest"
+			],
+			[
+				"auth",
+				"authenticaion"
+			],
+			[
+				"err",
+				"errors/"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"produt",
+				"products.json"
+			],
+			[
+				"ge",
+				"getAllProductsStatic"
+			],
+			[
+				"getA",
+				"getAllProductsStatic"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"getAllPro",
+				"getAllProductsStatic"
+			],
+			[
+				"cu",
+				"CustomAPIError"
+			],
+			[
+				"create",
+				"createCustomError"
+			],
+			[
+				"cr",
+				"createCustomError"
+			],
+			[
+				"er",
+				"errorHandlerMiddleware"
+			],
+			[
+				"ays",
+				"asyncWrapper"
+			],
+			[
+				"not",
+				"notFound"
+			],
+			[
+				"findOneA",
+				"findOneAndUpdate"
+			],
+			[
+				"findOneAn",
+				"findOneAndDelete"
+			],
+			[
+				"ta",
+				"taskId"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"new",
+				"newWB"
+			],
+			[
+				"wor",
+				"workSheet"
+			],
+			[
+				"wo",
+				"workSheet"
+			],
+			[
+				"w",
+				"workSheet"
+			],
+			[
+				"work",
+				"worksheet"
+			],
+			[
+				"dele",
+				"deletePerson"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/routes/Login.js",
+			"settings":
+			{
+				"buffer_size": 2732,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src/components/Alert.js",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"contents": "┌─[Eugene@alpha]─[~/Documents/React-sandbox/vfcc-registry/src/db-json]\n└──╼ $",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					88,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAHMCAAAAAAAAkAIAAAAAAAAAAAAAkAIAAAAAAACRAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHMCAAAAAAAAcwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					89,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAJECAAAAAAAArgIAAAAAAAAAAAAArgIAAAAAAACvAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJECAAAAAAAAkQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					90,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAK8CAAAAAAAAzAIAAAAAAAAAAAAAzAIAAAAAAADNAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAK8CAAAAAAAArwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					91,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAM0CAAAAAAAA6gIAAAAAAAAAAAAA6gIAAAAAAADrAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAM0CAAAAAAAAzQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					92,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAOsCAAAAAAAACAMAAAAAAAAAAAAACAMAAAAAAAAJAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOsCAAAAAAAA6wIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					93,
+					1,
+					"terminus_render",
+					null,
+					"AgAAAAkDAAAAAAAAJgMAAAAAAAAAAAAAJgMAAAAAAAAnAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAkDAAAAAAAACQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					94,
+					1,
+					"terminus_render",
+					null,
+					"AgAAACcDAAAAAAAARAMAAAAAAAAAAAAARAMAAAAAAABFAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACcDAAAAAAAAJwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					96,
+					1,
+					"terminus_render",
+					null,
+					"BQAAAEUDAAAAAAAARwMAAAAAAAAAAAAARwMAAAAAAABIAwAAAAAAAAAAAABIAwAAAAAAAJIDAAAAAAAAAAAAAJIDAAAAAAAAkwMAAAAAAAAAAAAAkwMAAAAAAACZAwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEUDAAAAAAAARQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					98,
+					1,
+					"terminus_render",
+					null,
+					"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AAAAAAAATgUAAAAAAAAAAAAATgUAAAAAAABPBQAAAAAAAAAAAABPBQAAAAAAAE8FAAAAAAAAAAAAAE8FAAAAAAAAXAUAAAAAAAAAAAAAXAUAAAAAAABdBQAAAAAAAAAAAABdBQAAAAAAAF0FAAAAAAAAAAAAAF0FAAAAAAAAXgUAAAAAAAAAAAAAXgUAAAAAAABeBQAAAAAAAAAAAABeBQAAAAAAALMFAAAAAAAAAAAAALMFAAAAAAAAtAUAAAAAAAAAAAAAtAUAAAAAAAC0BQAAAAAAAAAAAAC0BQAAAAAAALUFAAAAAAAAAAAAALUFAAAAAAAAtgUAAAAAAAAAAAAAtgUAAAAAAAC2BQAAAAAAAAAAAAC2BQAAAAAAANEFAAAAAAAAAAAAANEFAAAAAAAA0gUAAAAAAAAAAAAA0gUAAAAAAADSBQAAAAAAAAAAAADSBQAAAAAAANMFAAAAAAAAAAAAANMFAAAAAAAA0wUAAAAAAAAAAAAA0wUAAAAAAADUBQAAAAAAAAAAAADUBQAAAAAAANUFAAAAAAAAAAAAANUFAAAAAAAA1QUAAAAAAAAAAAAA1QUAAAAAAADzBQAAAAAAAAAAAADzBQAAAAAAAPQFAAAAAAAAAAAAAPQFAAAAAAAA9AUAAAAAAAAAAAAA9AUAAAAAAAAXBgAAAAAAAAAAAAAXBgAAAAAAABgGAAAAAAAAAAAAABgGAAAAAAAAGAYAAAAAAAAAAAAAGAYAAAAAAAAZBgAAAAAAAAAAAAAZBgAAAAAAABkGAAAAAAAAAAAAABkGAAAAAAAAKgYAAAAAAAAAAAAAKgYAAAAAAAArBgAAAAAAAAAAAAArBgAAAAAAACsGAAAAAAAAAAAAACsGAAAAAAAAMQYAAAAAAAAAAAAAMQYAAAAAAAAyBgAAAAAAAAAAAAAyBgAAAAAAADIGAAAAAAAAAAAAADIGAAAAAAAAMwYAAAAAAAAAAAAAMwYAAAAAAAAzBgAAAAAAAAAAAAAzBgAAAAAAAD4GAAAAAAAAAAAAAD4GAAAAAAAAPwYAAAAAAAAAAAAAPwYAAAAAAAA/BgAAAAAAAAAAAAA/BgAAAAAAAFwGAAAAAAAAAAAAAFwGAAAAAAAAXQYAAAAAAAAAAAAAXQYAAAAAAABdBgAAAAAAAAAAAABdBgAAAAAAAF4GAAAAAAAAAAAAAF4GAAAAAAAAXgYAAAAAAAAAAAAAXgYAAAAAAABkBgAAAAAAAAAAAABkBgAAAAAAAGUGAAAAAAAAAAAAAGUGAAAAAAAAZQYAAAAAAAAAAAAAZQYAAAAAAAB8BgAAAAAAAAAAAAB8BgAAAAAAAH0GAAAAAAAAAAAAAH0GAAAAAAAAfQYAAAAAAAAAAAAAfQYAAAAAAAB+BgAAAAAAAAAAAAB+BgAAAAAAAH4GAAAAAAAAAAAAAH4GAAAAAAAAnQYAAAAAAAAAAAAAnQYAAAAAAACeBgAAAAAAAAAAAACeBgAAAAAAAJ4GAAAAAAAAAAAAAJ4GAAAAAAAAuwYAAAAAAAAAAAAAuwYAAAAAAAC8BgAAAAAAAAAAAAC8BgAAAAAAALwGAAAAAAAAAAAAALwGAAAAAAAA2QYAAAAAAAAAAAAA2QYAAAAAAADaBgAAAAAAAAAAAADaBgAAAAAAANoGAAAAAAAAAAAAANoGAAAAAAAA9wYAAAAAAAAAAAAA9wYAAAAAAAD4BgAAAAAAAAAAAAD4BgAAAAAAAPgGAAAAAAAAAAAAAPgGAAAAAAAAFQcAAAAAAAAAAAAAFQcAAAAAAAAWBwAAAAAAAAAAAAAWBwAAAAAAABYHAAAAAAAAAAAAABYHAAAAAAAAMwcAAAAAAAAAAAAAMwcAAAAAAAA0BwAAAAAAAAAAAAA0BwAAAAAAADQHAAAAAAAAAAAAADQHAAAAAAAAUQcAAAAAAAAAAAAAUQcAAAAAAABSBwAAAAAAAAAAAABSBwAAAAAAAFIHAAAAAAAAAAAAAFIHAAAAAAAAbwcAAAAAAAAAAAAAbwcAAAAAAABwBwAAAAAAAAAAAABwBwAAAAAAAHAHAAAAAAAAAAAAAHAHAAAAAAAAcgcAAAAAAAAAAAAAcgcAAAAAAABzBwAAAAAAAAAAAABzBwAAAAAAAHMHAAAAAAAAAAAAAHMHAAAAAAAAvQcAAAAAAAAAAAAAvQcAAAAAAAC+BwAAAAAAAAAAAAC+BwAAAAAAAL4HAAAAAAAAAAAAAL4HAAAAAAAAxAcAAAAAAAAAAAAAvQcAAAAAAAC9BwAAAAAAAAcAAAAKICAgICAgcgcAAAAAAAByBwAAAAAAAEsAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvBwAAAAAAAG8HAAAAAAAAAwAAAAogIFEHAAAAAAAAUQcAAAAAAAAeAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMwcAAAAAAAAzBwAAAAAAAB4AAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAVBwAAAAAAABUHAAAAAAAAHgAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIPcGAAAAAAAA9wYAAAAAAAAeAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg2QYAAAAAAADZBgAAAAAAAB4AAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICC7BgAAAAAAALsGAAAAAAAAHgAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIJ0GAAAAAAAAnQYAAAAAAAAeAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQYAAAAAAAB9BgAAAAAAACAAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwGAAAAAAAAfAYAAAAAAAABAAAACmQGAAAAAAAAZAYAAAAAAAAYAAAACiAgICAgICAgICAgICAgICAgICAgICAgXQYAAAAAAABdBgAAAAAAAAcAAAAKICAgICAgXAYAAAAAAABcBgAAAAAAAAEAAAAKPgYAAAAAAAA+BgAAAAAAAB4AAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAyBgAAAAAAADIGAAAAAAAADAAAAAogICAgICAgICAgIDEGAAAAAAAAMQYAAAAAAAABAAAACioGAAAAAAAAKgYAAAAAAAAHAAAACiAgICAgIBgGAAAAAAAAGAYAAAAAAAASAAAACiAgICAgICAgICAgICAgICAgFwYAAAAAAAAXBgAAAAAAAAEAAAAK8wUAAAAAAADzBQAAAAAAACQAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDUBQAAAAAAANQFAAAAAAAAHwAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICDSBQAAAAAAANIFAAAAAAAAAgAAAAog0QUAAAAAAADRBQAAAAAAAAEAAAAKtQUAAAAAAAC1BQAAAAAAABwAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgswUAAAAAAACzBQAAAAAAAAIAAAAKIF0FAAAAAAAAXQUAAAAAAABWAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBcBQAAAAAAAFwFAAAAAAAAAQAAAApOBQAAAAAAAE4FAAAAAAAADgAAAAogICAgICAgICAgICAgDAUAAAAAAAAMBQAAAAAAAEIAAAAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICALBQAAAAAAAAsFAAAAAAAAAQAAAArzBAAAAAAAAPMEAAAAAAAAGAAAAAogICAgICAgICAgICAgICAgICAgICAgIOwEAAAAAAAA7AQAAAAAAAAHAAAACiAgICAgIOsEAAAAAAAA6wQAAAAAAAABAAAACs0EAAAAAAAAzQQAAAAAAAAeAAAACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgwQQAAAAAAADBBAAAAAAAAAwAAAAKICAgICAgICAgICDABAAAAAAAAMAEAAAAAAAAAQAAAAq5BAAAAAAAALkEAAAAAAAABwAAAAogICAgICCnBAAAAAAAAKcEAAAAAAAAEgAAAAogICAgICAgICAgICAgICAgIKYEAAAAAAAApgQAAAAAAAABAAAACpgEAAAAAAAAmAQAAAAAAAAOAAAACiAgICAgICAgICAgICCXBAAAAAAAAJcEAAAAAAAAAQAAAApBBAAAAAAAAEEEAAAAAAAAVgAAAAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKgQAAAAAAAAqBAAAAAAAABcAAAAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJkDAAAAAAAAmQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					1,
+					1,
+					"terminus_activate",
+					{
+						"auto_close": true,
+						"cancellable": false,
+						"cmd":
+						[
+							"/bin/bash",
+							"-i",
+							"-l"
+						],
+						"cwd": "/home/Eugene/Documents/React-sandbox/vfcc-registry/src/db-json",
+						"default_title": "Login Shell",
+						"env":
+						{
+							"LANG": "en_US.UTF-8",
+							"TERM": "linux",
+							"TERMINUS_SUBLIME": "1",
+							"TERM_PROGRAM": "Terminus-Sublime"
+						},
+						"file_regex": null,
+						"line_regex": null,
+						"panel_name": "Terminus",
+						"show_in_panel": null,
+						"tag": null,
+						"timeit": false,
+						"title": null
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABiBAAA4pSM4pSAW0V1Z2VuZUBhbHBoYV3ilIBbfi9Eb2N1bWVudHMvUmVhY3Qtc2FuZGIKb3gvdmZjYy1yZWdpc3RyeS9zcmMvZGItanNvbl0K4pSU4pSA4pSA4pW8ICRqc29uLXNlcnZlciAtLXdhdGNoIGRiLmpzb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgogIFx7Xl9efS8gaGkhCgogIExvYWRpbmcgZGIuanNvbgogIERvbmUKCiAgUmVzb3VyY2VzCiAgaHR0cDovL2xvY2FsaG9zdDozMDAwL3VzZXJzCgogIEhvbWUKICBodHRwOi8vbG9jYWxob3N0OjMwMDAKCiAgVHlwZSBzICsgZW50ZXIgYXQgYW55IHRpbWUgdG8gY3JlYXRlIGEgc25hcHNob3Qgb2YgdGhlIGRhdGFiYXNlCiAgV2F0Y2hpbmcuLi4KCiAgRXJyb3IgcmVhZGluZyAvaG9tZS9FdWdlbmUvRG9jdW1lbnRzL1JlYWN0LXNhbmRib3gvdmZjYy1yZWdpc3RyeS9zcmMvZGItanNvbi9kYi5qc2/igIvigIzigIsKbgpObyBkYXRhLCBlbXB0eSBpbnB1dCBhdCAxOjEKCl4KICBSZWFkIGVycm9yIGhhcyBiZWVuIGZpeGVkIDopCiAgZGIuanNvbiBoYXMgY2hhbmdlZCwgcmVsb2FkaW5nLi4uCgogIExvYWRpbmcgZGIuanNvbgogIERvbmUKCiAgUmVzb3VyY2VzCiAgaHR0cDovL2xvY2FsaG9zdDozMDAwL3VzZXJzCgogIEhvbWUKICBodHRwOi8vbG9jYWxob3N0OjMwMDAKCkdFVCAvdXNlcnMvMSAyMDAgMTYuMDA2IG1zIC0gNTQKR0VUIC91c2Vycy8xIDMwNCA0LjEwNiBtcyAtIC0KR0VUIC91c2Vycy8xIDMwNCA3LjEzMSBtcyAtIC0KR0VUIC91c2Vycy8xIDMwNCA1LjU0MyBtcyAtIC0KR0VUIC91c2Vycy8xIDMwNCA0LjUwMCBtcyAtIC0KR0VUIC91c2Vycy8xIDMwNCA0LjI5MSBtcyAtIC0KR0VUIC91c2Vycy8xIDMwNCAyLjgwOSBtcyAtIC0KR0VUIC91c2Vycy8xIDMwNCA1LjUxMyBtcyAtIC0KXkMK4pSM4pSAW+Kcl13ilIBbRXVnZW5lQGFscGhhXeKUgFt+L0RvY3VtZW50cy9SZWFjdC1zYW5kYm94L3ZmY2MtcmVnaXN0cnkvc3JjL2RiLWpzb25dCuKUlOKUgOKUgOKVvCAkCuKUjOKUgFvinJdd4pSAW0V1Z2VuZUBhbHBoYV3ilIBbfi9Eb2N1bWVudHMvUmVhY3Qtc2FuZGJveC92ZmNjLXJlZ2lzdHJ5L3NyYy9kYi1qc29uXSAgICAgICAgICAgCuKUlOKUgOKUgOKVvCAk",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAqBAAAAAAAACoEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					2,
+					2,
+					"terminus_render",
+					null,
+					"YQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAABAAAACh0AAAAAAAAAHQAAAAAAAAABAAAAChwAAAAAAAAAHAAAAAAAAAABAAAAChsAAAAAAAAAGwAAAAAAAAABAAAAChoAAAAAAAAAGgAAAAAAAAABAAAAChkAAAAAAAAAGQAAAAAAAAABAAAAChgAAAAAAAAAGAAAAAAAAAABAAAAChcAAAAAAAAAFwAAAAAAAAABAAAAChYAAAAAAAAAFgAAAAAAAAABAAAAChUAAAAAAAAAFQAAAAAAAAABAAAAChQAAAAAAAAAFAAAAAAAAAABAAAAChMAAAAAAAAAEwAAAAAAAAABAAAAChIAAAAAAAAAEgAAAAAAAAABAAAAChEAAAAAAAAAEQAAAAAAAAABAAAAChAAAAAAAAAAEAAAAAAAAAABAAAACg8AAAAAAAAADwAAAAAAAAABAAAACg4AAAAAAAAADgAAAAAAAAABAAAACg0AAAAAAAAADQAAAAAAAAABAAAACgwAAAAAAAAADAAAAAAAAAABAAAACgsAAAAAAAAACwAAAAAAAAABAAAACgoAAAAAAAAACgAAAAAAAAABAAAACgkAAAAAAAAACQAAAAAAAAABAAAACggAAAAAAAAACAAAAAAAAAABAAAACgcAAAAAAAAABwAAAAAAAAABAAAACgYAAAAAAAAABgAAAAAAAAABAAAACgUAAAAAAAAABQAAAAAAAAABAAAACgQAAAAAAAAABAAAAAAAAAABAAAACgMAAAAAAAAAAwAAAAAAAAABAAAACgIAAAAAAAAAAgAAAAAAAAABAAAACgEAAAAAAAAAAQAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAABAAAACgAAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAE0AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					1,
+					1,
+					"terminus_activate",
+					{
+						"auto_close": true,
+						"cancellable": false,
+						"cmd":
+						[
+							"/bin/bash",
+							"-i",
+							"-l"
+						],
+						"cwd": "/home/Eugene/Documents/React-sandbox/vfcc-registry/src/db-json",
+						"default_title": "Login Shell",
+						"env":
+						{
+							"LANG": "en_US.UTF-8",
+							"TERM": "linux",
+							"TERMINUS_SUBLIME": "1",
+							"TERM_PROGRAM": "Terminus-Sublime"
+						},
+						"file_regex": null,
+						"line_regex": null,
+						"panel_name": "Terminus",
+						"show_in_panel": null,
+						"tag": null,
+						"timeit": false,
+						"title": null
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABbAAAA4pSM4pSAW0V1Z2VuZUBhbHBoYV3ilIBbfi9Eb2N1bWVudHMvUmVhY3Qtc2FuZGJveC92ZmNjLXJlZ2lzdHJ5L3NyYy9kYi1qc29uXQrilJTilIDilIDilbwgJA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					2,
+					"terminus_render",
+					null,
+					"YQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAABAAAACh0AAAAAAAAAHQAAAAAAAAABAAAAChwAAAAAAAAAHAAAAAAAAAABAAAAChsAAAAAAAAAGwAAAAAAAAABAAAAChoAAAAAAAAAGgAAAAAAAAABAAAAChkAAAAAAAAAGQAAAAAAAAABAAAAChgAAAAAAAAAGAAAAAAAAAABAAAAChcAAAAAAAAAFwAAAAAAAAABAAAAChYAAAAAAAAAFgAAAAAAAAABAAAAChUAAAAAAAAAFQAAAAAAAAABAAAAChQAAAAAAAAAFAAAAAAAAAABAAAAChMAAAAAAAAAEwAAAAAAAAABAAAAChIAAAAAAAAAEgAAAAAAAAABAAAAChEAAAAAAAAAEQAAAAAAAAABAAAAChAAAAAAAAAAEAAAAAAAAAABAAAACg8AAAAAAAAADwAAAAAAAAABAAAACg4AAAAAAAAADgAAAAAAAAABAAAACg0AAAAAAAAADQAAAAAAAAABAAAACgwAAAAAAAAADAAAAAAAAAABAAAACgsAAAAAAAAACwAAAAAAAAABAAAACgoAAAAAAAAACgAAAAAAAAABAAAACgkAAAAAAAAACQAAAAAAAAABAAAACggAAAAAAAAACAAAAAAAAAABAAAACgcAAAAAAAAABwAAAAAAAAABAAAACgYAAAAAAAAABgAAAAAAAAABAAAACgUAAAAAAAAABQAAAAAAAAABAAAACgQAAAAAAAAABAAAAAAAAAABAAAACgMAAAAAAAAAAwAAAAAAAAABAAAACgIAAAAAAAAAAgAAAAAAAAABAAAACgEAAAAAAAAAAQAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAAAABAAAACgAAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAE0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"su",
+				"JSFMT: Settings - User"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"sa",
+				"Snippet: Action"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/components"
+	],
+	"file_history":
+	[
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/context/AuthContext.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/styles/desktop/login.scss",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/styles/global/config.scss",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Hooks/useAuthUser.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Hooks/useLogin.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/routes/Login.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/db-json/db.json",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/.env",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/package.json",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/components/axios.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Hooks/useAuthContext.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/components/Alert.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/styles/global/utils.scss",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/components/store.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Hooks/useValidator.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Helpers/isEmpty.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/App.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/styles/styles.scss",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/routes/Registry.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/routes/FollowUp.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/index.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/context/authReducer.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Helpers/axios-error.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Helpers/async-error.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Helpers/asyncerror.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/Hooks/useAxiosError.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/base/BaseInput.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/base/Button.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/routes/View.js",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/public/index.html",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/public/manifest.json",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/styles/desktop/index.scss",
+		"/home/Eugene/Documents/React-sandbox/vfcc-registry/src/routes/Home.js",
+		"/home/Eugene/Documents/VueJs/krynn/package.json",
+		"/home/Eugene/Documents/VueJs/krynn/src/reusables/BaseInput.vue",
+		"/home/Eugene/Documents/VueJs/krynn/src/reusables/BaseButton.vue",
+		"/home/Eugene/Documents/VueJs/krynn/src/App.vue",
+		"/home/Eugene/Documents/VueJs/krynn/src/styles/styles.scss",
+		"/home/Eugene/Documents/VueJs/krynn/src/styles/desktop/desktop.scss",
+		"/home/Eugene/Documents/VueJs/krynn/src/composables/useAuth.js",
+		"/home/Eugene/Documents/VueJs/krynn/src/router/index.js",
+		"/home/Eugene/Documents/VueJs/krynn/src/composables/useGuardRoute.js",
+		"/home/Eugene/Documents/VueJs/krynn/src/views/Signup.vue",
+		"/home/Eugene/Documents/VueJs/krynn/src/views/ResetPassword.vue",
+		"/home/Eugene/Documents/VueJs/krynn/src/views/Login.vue",
+		"/home/Eugene/Documents/VueJs/krynn/src/views/Home.vue",
+		"/home/Eugene/Documents/VueJs/krynn/src/composables/useEmpty.js",
+		"/home/Eugene/Documents/VueJs/krynn/src/main.js",
+		"/home/Eugene/.config/sublime-text/Packages/phpcbf/phpcbf.sublime-settings",
+		"/home/Eugene/Documents/Laravel/hello-world/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/home/Eugene/Documents/apache.txt",
+		"/home/Eugene/Documents/Laravel/larevel.sublime-project",
+		"/home/Eugene/Documents/Nodejs/sandbox/node-errors/routes/tweet-routes.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/App.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/Login.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/store/index.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/Error.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/router/index.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/Navbar.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/Reset.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/Forgot.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/Home.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/Register.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/vue_auth/components/axios.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/main.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/sidebar_menu/components/SidebarC.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/sidebar_menu/router/index.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/sidebar_menu/router/router.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/package.json",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/main-o.js",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/sidebar_menu/views/About.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/sidebar_menu/views/Home.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/dropdown/Navbar.vue",
+		"/home/Eugene/Documents/VueJs/vue-sandbox/src/projects/dropdown/Dropdown.vue",
+		"/home/Eugene/Documents/Nodejs/js/index.html",
+		"/home/Eugene/Documents/Nodejs/js/cookies.js",
+		"/home/Eugene/Documents/Nodejs/node-express-course-main/03-task-manager/final/middleware/error-handler.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/app.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/controllers/jobs-contr.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/middleware/error-handler.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/models/Job-model.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/db/connect.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/models/User-model.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/middleware/authentication.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/controllers/auth-contr.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/.env",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/routes/auth-routes.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_04_jobs_api/routes/jobs-routes.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/app.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/controllers/products_contr.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/products.json",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/.env",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/middleware/auth.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/controllers/main-contr.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/middleware/error-handler.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/errors/unauthenticated.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/errors/bad-request.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/errors/custom-error.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/errors/index.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/app.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/routes/routes.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/.env",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_03_jwt_basics/controllers/main.js",
+		"/home/Eugene/.config/sublime-text/Packages/User/auto_save.sublime-settings",
+		"/home/Eugene/.config/sublime-text/Packages/auto-save/auto_save.sublime-settings",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/populate.js",
+		"/home/Eugene/.config/sublime-text/Packages/auto-save/README.md",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/models/product_model.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/middleware/error-handler.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/routes/products_routes.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/controllers/products.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/routes/products.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/package.json",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_02_store_api/db/connect.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/controllers/tasks_contr.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/errors/custom-error.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/middleware/error-handler.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/app.js",
+		"/home/Eugene/Documents/Nodejs/node-express-course-main/03-task-manager/final/controllers/tasks.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/middleware/async.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/middleware/not-found.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/public/browser-app.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/models/tasks_model.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/routes/tasks_routes.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/db/connect.js",
+		"/home/Eugene/Documents/Nodejs/node-sandbox/src/_01_task_manager/.env"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/routes/Login.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								832,
+								832
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										831,
+										832
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										763,
+										764
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/components/Alert.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								266
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										266,
+										267
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										261,
+										262
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/Eugene/Documents/React-sandbox/vfcc-registry/src/routes",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/Eugene/Documents/React-sandbox/vfcc-registry/src/db-json",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 8,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/home/Eugene/Documents/React-sandbox/vfcc-registry/src/db-json",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vfcc-registry.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Laravel/laragigs/laragigs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

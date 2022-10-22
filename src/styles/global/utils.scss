@@ -1,0 +1,30 @@
+.alert {
+  padding: 10px;
+  border-radius: 4px;
+  margin: 15px 0;
+  width: 100%;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: fade 500ms linear;
+
+  &.alert-danger {
+    color: $color-danger;
+    background: $color-danger-bck;
+  }
+
+  &.alert-success {
+    color: $color-success;
+    background: $color-success-bck;
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
