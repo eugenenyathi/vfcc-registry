@@ -1,12 +1,25 @@
+@mixin eye($top, $right) {
+  position: absolute;
+  top: $top;
+  right: $right;
+  transform: translateY(-$top);
+
+  outline: none;
+  border: none;
+  color: $color-dark-1;
+  cursor: pointer;
+  font-size: 24px;
+  background-color: transparent;
+  transition: color 250ms linear 0ms;
+}
+
 .alert {
   padding: 10px;
   border-radius: 4px;
   margin: 15px 0;
   width: 100%;
   font-size: 14px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
   animation: fade 500ms linear;
 
   &.alert-danger {

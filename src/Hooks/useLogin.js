@@ -14,7 +14,7 @@ const useLogin = () => {
 		try {
 			setIsLoading(true);
 
-			const { status, data: user } = await axios.get("/users/1");
+			const { status, data: user } = await axios.get("/users/4");
 
 			if (status === 200) {
 				console.log(user);
@@ -31,7 +31,6 @@ const useLogin = () => {
 				setIsLoading(false);
 			}
 		} catch (err) {
-			console.log("click");
 			setAsyncError(axiosError(err));
 			setIsLoading(false);
 		}

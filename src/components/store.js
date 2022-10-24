@@ -5,3 +5,9 @@
 		""
 	);
 }
+
+useEffect(() => {
+	if (asyncError) {
+		showError(true, asyncError, "danger");
+	}
+}, [asyncError]);

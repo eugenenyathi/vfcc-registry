@@ -1,6 +1,8 @@
-const Button = ({ text, btnClass, btnFn, icon }) => {
+import React from "react";
+
+const Button = ({ type = "button", text, icon, btnClass, btnFn }) => {
 	return (
-		<button className={btnClass} onClick={btnFn}>
+		<button type={type} className={btnClass} onClick={btnFn}>
 			{icon}
 			{text}
 		</button>

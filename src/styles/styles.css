@@ -68,13 +68,13 @@ body {
   align-items: center;
   gap: 7px;
   margin-top: 13px;
-  margin-bottom: 33px;
+  margin-bottom: 35px;
 }
 .login-header.show-alert {
   margin-bottom: 0px;
 }
 .login-header h2 {
-  color: #191654;
+  color: #1b1c1e;
   font-size: 30px;
   font-weight: normal;
   letter-spacing: 0.35px;
@@ -85,10 +85,11 @@ body {
 }
 
 .form-control {
-  margin-bottom: 15px;
+  position: relative;
+  margin-bottom: 18px;
 }
 .form-control label {
-  color: #191654;
+  color: #1b1c1e;
   cursor: pointer;
   display: block;
   font-size: 16px;
@@ -111,6 +112,24 @@ body {
 .form-control .login-input::focus {
   border-color: #d9d9d9;
 }
+.form-control .eye {
+  position: absolute;
+  top: 83%;
+  right: 15px;
+  transform: translateY(-83%);
+  outline: none;
+  border: none;
+  color: #000;
+  cursor: pointer;
+  font-size: 24px;
+  background-color: transparent;
+  transition: color 250ms linear 0ms;
+  color: #b6b1cd;
+  font-size: 20px;
+}
+.form-control .eye:hover {
+  color: #000;
+}
 
 .login-links {
   display: flex;
@@ -119,7 +138,7 @@ body {
   margin-top: 20px;
 }
 .login-links p {
-  color: #191654;
+  color: #1b1c1e;
   cursor: pointer;
   font-size: 13px;
 }
